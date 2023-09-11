@@ -1,6 +1,6 @@
 # RSNA_2023_Abdominal_Trauma_Detection
-for kaggle competition (https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection)　　
-日程:Oct 13,2023 Final Submission Deadline　　
+for kaggle competition [https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection]  
+日程:Oct 13,2023 Final Submission Deadline  
 賞金:1位 $12,000... 5-9位 $3000
 
 ### 目標：患者のCT画像を見て腹部傷害(下記)を診断する。
